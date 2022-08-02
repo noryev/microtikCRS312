@@ -9,3 +9,5 @@ Switching	Non blocking Layer 2 throughput	9752,8	118438.2	28195,5	115488.8	17857
 Switching	Non blocking Layer 2 capacity	9752,8	236876.5	28195,5	230977.5	178571,3	182857.0
 Switching	Non blocking Layer 1 throughput	9752,8	120100.0	28195,5	120100.0	178571,3	120100.0
 Switching	Non blocking Layer 1 capacity	9752,8	240200.0	28195,5	240200.0	178571,3	240200.0
+
+(all readings in Mb)
